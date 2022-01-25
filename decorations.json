@@ -1,0 +1,74 @@
+[
+    {
+        "_id": {
+            "$oid": "5eee651f739f8c674fd736ee"
+        },
+        "name": "Decoration-1",
+        "image": "main.png",
+        "price": "70000",
+        "type": "Wedding"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6671a27a66807cf2bea3"
+        },
+        "name": "Decoration-2",
+        "image": "2.png",
+        "price": "10000",
+        "type": "Birthday Party"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6692a27a66807cf2bea4"
+        },
+        "name": "Decoration-3",
+        "image": "3.png",
+        "price": "5000",
+        "type": "Birthday Party"
+    },
+    {
+        "_id": {
+            "$oid": "5eee66a5a27a66807cf2bea5"
+        },
+        "name": "Decoration-4",
+        "image": "4.png",
+        "price": "12000",
+        "type": "Ganapati Mandap"
+    },
+    {
+        "_id": {
+            "$oid": "5eee66c4a27a66807cf2bea6"
+        },
+        "name": "Decoration-5",
+        "image": "5.png",
+        "price": "40000",
+        "type": "Anniversary"
+    },
+    {
+        "_id": {
+            "$oid": "5eee66cfa27a66807cf2bea7"
+        },
+        "name": "Decoration-6",
+        "image": "6.png",
+        "price": "100000",
+        "type": "Marriage Ceremony"
+    },
+    {
+        "_id": {
+            "$oid": "5eee66eea27a66807cf2bea8"
+        },
+        "name": "Decoration-7",
+        "image": "7.png",
+        "price": "50000",
+        "type": "Kerala Style"
+    },
+    {
+        "_id": {
+            "$oid": "5eee6717a27a66807cf2bea9"
+        },
+        "name": "Decoration-8",
+        "image": "8.png",
+        "price": "80000",
+        "type": "Candlelight Special"
+    }
+]
